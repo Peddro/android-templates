@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dagger-mvp-template</string>
+    <string name="hello_world">Hello World</string>
+    <string name="home_text">I\'m at home!!!!</string>
+</resources>
